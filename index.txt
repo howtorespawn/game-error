@@ -1,0 +1,182 @@
+reaping pid: 5981 -- gameoverlayui
+fsync: up and running.
+wine: RLIMIT_NICE is <= 20, unable to use setpriority safely
+MESA-INTEL: warning: Ivy Bridge Vulkan support is incomplete
+MESA-INTEL: warning: Ivy Bridge Vulkan support is incomplete
+MESA-INTEL: warning: Ivy Bridge Vulkan support is incomplete
+MESA-INTEL: warning: Ivy Bridge Vulkan support is incomplete
+MESA-INTEL: warning: Ivy Bridge Vulkan support is incomplete
+MESA-INTEL: warning: Ivy Bridge Vulkan support is incomplete
+MESA-INTEL: warning: Ivy Bridge Vulkan support is incomplete
+MESA-INTEL: warning: Ivy Bridge Vulkan support is incomplete
+MESA-INTEL: warning: Ivy Bridge Vulkan support is incomplete
+MESA-INTEL: warning: Ivy Bridge Vulkan support is incomplete
+MESA-INTEL: warning: Ivy Bridge Vulkan support is incomplete
+MESA-INTEL: warning: Ivy Bridge Vulkan support is incomplete
+/bin/sh\0-c\0PROTON_USE_WINED3D=1 /home/fateh/.var/app/com.valvesoftware.Steam/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=730 -- /home/fateh/.var/app/com.valvesoftware.Steam/.local/share/Steam/ubuntu12_32/steam-launch-wrapper -- '/home/fateh/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=waitforexitandrun -- '/home/fateh/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/Proton - Experimental'/proton waitforexitandrun  '/home/fateh/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/Counter-Strike Global Offensive/game/bin/win64/cs2.exe' -steam\0
+chdir "/home/fateh/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/Counter-Strike Global Offensive"
+ERROR: ld.so: object '/home/fateh/.var/app/com.valvesoftware.Steam/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/home/fateh/.var/app/com.valvesoftware.Steam/.local/share/Steam/ubuntu12_64/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS64): ignored.
+ERROR: ld.so: object '/home/fateh/.var/app/com.valvesoftware.Steam/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/home/fateh/.var/app/com.valvesoftware.Steam/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/home/fateh/.var/app/com.valvesoftware.Steam/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+WARNING: discarding _NET_WM_PID 1186 as invalid for X11 window - use specialized XCB_X11_TO_PID function!
+WARNING: discarding _NET_WM_PID 1186 as invalid for X11 window - use specialized XCB_X11_TO_PID function!
+WARNING: discarding _NET_WM_PID 1186 as invalid for X11 window - use specialized XCB_X11_TO_PID function!
+WARNING: discarding _NET_WM_PID 1197 as invalid for X11 window - use specialized XCB_X11_TO_PID function!
+WARNING: discarding _NET_WM_PID 9692 as invalid for X11 window - use specialized XCB_X11_TO_PID function!
+WARNING: discarding _NET_WM_PID 9692 as invalid for X11 window - use specialized XCB_X11_TO_PID function!
+WARNING: discarding _NET_WM_PID 17397 as invalid for X11 window - use specialized XCB_X11_TO_PID function!
+WARNING: discarding _NET_WM_PID 1186 as invalid for X11 window - use specialized XCB_X11_TO_PID function!
+WARNING: discarding _NET_WM_PID 1186 as invalid for X11 window - use specialized XCB_X11_TO_PID function!
+WARNING: discarding _NET_WM_PID 1186 as invalid for X11 window - use specialized XCB_X11_TO_PID function!
+WARNING: discarding _NET_WM_PID 1197 as invalid for X11 window - use specialized XCB_X11_TO_PID function!
+WARNING: discarding _NET_WM_PID 9692 as invalid for X11 window - use specialized XCB_X11_TO_PID function!
+WARNING: discarding _NET_WM_PID 9692 as invalid for X11 window - use specialized XCB_X11_TO_PID function!
+WARNING: discarding _NET_WM_PID 17397 as invalid for X11 window - use specialized XCB_X11_TO_PID function!
+WARNING: discarding _NET_WM_PID 1186 as invalid for X11 window - use specialized XCB_X11_TO_PID function!
+WARNING: discarding _NET_WM_PID 1186 as invalid for X11 window - use specialized XCB_X11_TO_PID function!
+WARNING: discarding _NET_WM_PID 1186 as invalid for X11 window - use specialized XCB_X11_TO_PID function!
+WARNING: discarding _NET_WM_PID 1197 as invalid for X11 window - use specialized XCB_X11_TO_PID function!
+WARNING: discarding _NET_WM_PID 9692 as invalid for X11 window - use specialized XCB_X11_TO_PID function!
+WARNING: discarding _NET_WM_PID 9692 as invalid for X11 window - use specialized XCB_X11_TO_PID function!
+WARNING: discarding _NET_WM_PID 17397 as invalid for X11 window - use specialized XCB_X11_TO_PID function!
+fsync: up and running.
+wine: RLIMIT_NICE is <= 20, unable to use setpriority safely
+MESA-INTEL: warning: Ivy Bridge Vulkan support is incomplete
+MESA-INTEL: warning: Ivy Bridge Vulkan support is incomplete
+MESA-INTEL: warning: Ivy Bridge Vulkan support is incomplete
+MESA-INTEL: warning: Ivy Bridge Vulkan support is incomplete
+MESA-INTEL: warning: Ivy Bridge Vulkan support is incomplete
+MESA-INTEL: warning: Ivy Bridge Vulkan support is incomplete
+MESA-INTEL: warning: Ivy Bridge Vulkan support is incomplete
+MESA-INTEL: warning: Ivy Bridge Vulkan support is incomplete
+MESA-INTEL: warning: Ivy Bridge Vulkan support is incomplete
+MESA-INTEL: warning: Ivy Bridge Vulkan support is incomplete
+Setting breakpad minidump AppID = 730
+Steam_SetMinidumpSteamID:  Caching Steam ID:  76561199022447731 [API loaded no]
+MESA-INTEL: warning: Ivy Bridge Vulkan support is incomplete
+MESA-INTEL: warning: Ivy Bridge Vulkan support is incomplete
+MESA-INTEL: warning: Ivy Bridge Vulkan support is incomplete
+MESA-INTEL: warning: Ivy Bridge Vulkan support is incomplete
+Using breakpad crash handler
+Setting breakpad minidump AppID = 730
+Forcing breakpad minidump interfaces to load
+Looking up breakpad interfaces from steamclient
+Calling BreakpadMiniDumpSystemInit
+Looking up breakpad interfaces from steamclient
+Calling BreakpadMiniDumpSystemInit
+SteamInternal_SetMinidumpSteamID:  Caching Steam ID:  76561199022447731 [API loaded yes]
+SteamInternal_SetMinidumpSteamID:  Setting Steam ID:  76561199022447731
+Setting breakpad minidump AppID = 2347771
+MESA-INTEL: warning: Ivy Bridge Vulkan support is incomplete
+MESA-INTEL: warning: Ivy Bridge Vulkan support is incomplete
+MESA-INTEL: warning: Ivy Bridge Vulkan support is incomplete
+MESA-INTEL: warning: Ivy Bridge Vulkan support is incomplete
+MESA-INTEL: warning: Ivy Bridge Vulkan support is incomplete
+MESA-INTEL: warning: Ivy Bridge Vulkan support is incomplete
+MESA-INTEL: warning: Ivy Bridge Vulkan support is incomplete
+MESA-INTEL: warning: Ivy Bridge Vulkan support is incomplete
+MESA-INTEL: warning: Ivy Bridge Vulkan support is incomplete
+MESA-INTEL: warning: Ivy Bridge Vulkan support is incomplete
+MESA-INTEL: warning: Ivy Bridge Vulkan support is incomplete
+MESA-INTEL: warning: Ivy Bridge Vulkan support is incomplete
+MESA-INTEL: warning: Ivy Bridge Vulkan support is incomplete
+MESA-INTEL: warning: Ivy Bridge Vulkan support is incomplete
+GameOverlay: started '/home/fateh/.var/app/com.valvesoftware.Steam/.local/share/Steam/ubuntu12_32/gameoverlayui' (pid 6493) for game process 6449
+                                                                                                                                                 tid(6493) burning pthread_key_t == 0 so we never use it
+                       02/16 16:31:47 Init: Installing breakpad exception handler for appid(gameoverlayui)/version(20240113005205)/tid(6493)
+                                                                                                                                            02/16 16:31:47 Init: Installing breakpad exception handler for appid(gameoverlayui)/version(1.0)/tid(6493)
+                                                                     Fontconfig warning: line 86: saw string, expected number
+Fontconfig warning: "Z:\home\fateh\.var\app\com.valvesoftware.Steam\.local\share\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\panorama\fonts\../../../core/pa
+norama/fonts/conf.d/41-repl-os-win.conf", line 148: Having multiple values in <test> isn't supported and may not work as expected
+Fontconfig warning: "Z:\home\fateh\.var\app\com.valvesoftware.Steam\.local\share\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\panorama\fonts\../../../core/pa
+norama/fonts/conf.d/41-repl-os-win.conf", line 160: Having multiple values in <test> isn't supported and may not work as expected
+
+
+---------------------------------------------------------
+Encountered accessviolation.
+Wrote minidump to cs2_2024_0216_113148_0_accessviolation.mdmp
+---------------------------------------------------------
+
+pid 6364 != 6362, skipping destruction (fork without exec?)
+Game 730 created interface STEAMAPPS_INTERFACE_VERSION008 / 
+Game 730 created interface STEAMHTMLSURFACE_INTERFACE_VERSION_005 / 
+Game 730 created interface STEAMHTTP_INTERFACE_VERSION003 / 
+Game 730 created interface STEAMHTTP_INTERFACE_VERSION003 / HTTP
+Game 730 created interface STEAMREMOTESTORAGE_INTERFACE_VERSION016 / 
+Game 730 created interface STEAMUSERSTATS_INTERFACE_VERSION012 / 
+Game 730 created interface SteamAppDisableUpdate001 / 
+Game 730 created interface SteamController008 / 
+Game 730 created interface SteamFriends017 / 
+Game 730 created interface SteamGameCoordinator001 / 
+Game 730 created interface SteamGameStats001 / 
+Game 730 created interface SteamInput006 / 
+Game 730 created interface SteamMatchMaking009 / 
+Game 730 created interface SteamNetworking006 / 
+Game 730 created interface SteamNetworkingSocketsSerialized003 / 
+Game 730 created interface SteamNetworkingSocketsSerialized005 / 
+Game 730 created interface SteamUser023 / 
+Game 730 created interface SteamUser023 / User
+Game 730 created interface SteamUtils010 / 
+Game 730 created interface SteamUtils010 / Utils
+Game 730 method call count for IClientNetworkingSocketsSerialized::GetCachedRelayTicketCount : 1
+Game 730 method call count for IClientNetworkingSocketsSerialized::GetCertAsync : 1
+Game 730 method call count for IClientHTTP::ReleaseHTTPRequest : 1
+Game 730 method call count for IClientHTTP::GetHTTPResponseBodyData : 1
+Game 730 method call count for IClientHTTP::SendHTTPRequest : 4
+Game 730 method call count for IClientHTTP::SetHTTPRequestHeaderValue : 1
+Game 730 method call count for IClientHTTP::CreateHTTPRequest : 4
+Game 730 method call count for IClientGameStats::GetNewSession : 1
+Game 730 method call count for IClientGameCoordinator::RetrieveMessage : 5
+Game 730 method call count for IClientGameCoordinator::IsMessageAvailable : 10
+Game 730 method call count for IClientGameCoordinator::SendMessage : 6
+Game 730 method call count for IClientRemoteStorage::FileExists : 1
+Game 730 method call count for IClientRemoteStorage::GetFileTimestamp : 12
+Game 730 method call count for IClientRemoteStorage::GetFileSize : 2
+Game 730 method call count for IClientRemoteStorage::FileWrite : 2
+Game 730 method call count for IClientNetworking::GetMaxPacketSize : 1
+Game 730 method call count for IClientUserStats::FindLeaderboard : 1
+Game 730 method call count for IClientUserStats::GetStat : 238
+Game 730 method call count for IClientUserStats::RequestCurrentStats : 1
+Game 730 method call count for IClientAppManager::GetCurrentLanguage : 1
+Game 730 method call count for IClientAppManager::GetAppStateInfo : 6
+Game 730 method call count for IClientAppManager::BIsDlcEnabled : 1
+Game 730 method call count for IClientUtils::RecordSteamInterfaceCreation : 37
+Game 730 method call count for IClientUtils::FilterText : 2
+Game 730 method call count for IClientUtils::InitFilterText : 1
+Game 730 method call count for IClientUtils::IsSteamChina : 1
+Game 730 method call count for IClientUtils::SetOverlayNotificationInset : 1
+Game 730 method call count for IClientUtils::SetOverlayNotificationPosition : 1
+Game 730 method call count for IClientUtils::GetLauncherType : 1
+Game 730 method call count for IClientUtils::GetSteamUILanguage : 1
+Game 730 method call count for IClientUtils::AllocPendingAPICallHandle : 1
+Game 730 method call count for IClientUtils::GetAPICallResult : 3
+Game 730 method call count for IClientUtils::GetAppID : 46
+Game 730 method call count for IClientUtils::GetImageRGBA : 4
+Game 730 method call count for IClientUtils::GetImageSize : 4
+Game 730 method call count for IClientUtils::GetIPCountry : 3
+Game 730 method call count for IClientUtils::GetServerRealTime : 3
+Game 730 method call count for IClientFriends::GetProfileItemPropertyString : 1
+Game 730 method call count for IClientFriends::RequestEquippedProfileItems : 3
+Game 730 method call count for IClientFriends::GetFriendPersonaName_Public : 5
+Game 730 method call count for IClientFriends::RequestUserInformation : 5
+Game 730 method call count for IClientFriends::GetClanTag : 1
+Game 730 method call count for IClientFriends::GetClanByIndex : 1
+Game 730 method call count for IClientFriends::GetClanCount : 1
+Game 730 method call count for IClientFriends::GetFriendGamePlayed : 11
+Game 730 method call count for IClientFriends::GetFriendByIndex : 11
+Game 730 method call count for IClientFriends::GetFriendCount : 1
+Game 730 method call count for IClientFriends::GetMediumFriendAvatar : 2
+Game 730 method call count for IClientFriends::GetSmallFriendAvatar : 2
+Game 730 method call count for IClientFriends::GetFriendPersonaState : 11
+Game 730 method call count for IClientFriends::GetFriendRelationship : 11
+Game 730 method call count for IClientUser::BSetDurationControlOnlineState : 1
+Game 730 method call count for IClientUser::BIsSubscribedApp : 7
+Game 730 method call count for IClientUser::GetUserDataFolder : 1
+Game 730 method call count for IClientUser::GetSteamID : 25
+Game 730 method call count for IClientUser::BLoggedOn : 5
+Uploaded AppInterfaceStats to Steam
+
+(process:6493): GLib-GObject-CRITICAL **: 16:32:20.638: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+reaping pid: 6493 -- gameoverlayui
